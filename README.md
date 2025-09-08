@@ -1,4 +1,4 @@
-# Basic ETL Pipeline with Data Analysis, Insights, and Visualization
+# Data Pipeline with Python and PostgreSQL for Data Analysis & Visualization
 
 This repository showcases data projects where I:  
 - **Extracted** raw datasets (CSV files)  
